@@ -1,5 +1,5 @@
-Hello world.
+# Hello!
 
-# This is header 1!
+Welcome to linspace.io.
 
 Here's a link to the [second page](second.md)
