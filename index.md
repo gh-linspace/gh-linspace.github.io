@@ -1,3 +1,1 @@
-Hello world!
-
-# This is my site.
+Hello world.
